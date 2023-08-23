@@ -100,7 +100,6 @@ calculated_cost = calculated_Lkm * gasprices
 
 print(f"\nFor the given trip {Actual_Dist:.2f} km with {selected_car.model} the amount of gas it will cost you is "
       f"{calculated_cost:0.2f}$")
-
 # ----------------------------- TO DO List ----------------------------------
 # - Ask for the source address anywhere in the world DONE
 # - Then ask for the destination, now focus point being the source address DONE
